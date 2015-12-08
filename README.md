@@ -6,8 +6,8 @@ In this repository, you can find (editor) Theme-Files for different applications
 
 Currently, the Theme exists for the following Applications:
 
-- iterm2 ([Instructions](iterm2/readme.md))
-- QT Creator ([Instructions](qtcreator/readme.md))
+- iterm2 ([Instructions](iterm2/README.md))
+- QT Creator ([Instructions](qtcreator/README.md))
 
 
 # Acknowledgements
